@@ -1,0 +1,25 @@
+remote sensing;remote sensing (rs);remote sensing images;remote-sensing models
+vision foundation models;vision foundation model;vision foundation models (vfms);vfms;vfm
+remote sensing foundation models;remote sensing foundation model;rsfms;rsfm
+geospatial foundation models;geospatial foundation model;gfms;gfm
+multimodal large language models;multimodal large language model;mllms;mllm
+large language models;large language model;llms;llm
+vision-language models;vision-language model;vision language models;vision language model;vlms;vlm
+segment anything model;sam;segment anything
+transformers;transformer
+vision transformer;vision transformers;vit;vision transformer (vit);vision transformers (vits);vits
+self-supervised learning;self-supervised;ssl
+fine-tuning;fine tuning
+parameter-efficient fine-tuning;peft
+pre-training;pretraining;pre-trained models;pretrained models
+hyperspectral imaging;hyperspectral image;hyperspectral images;hyperspectral image classification
+synthetic aperture radar;sar;sar images;radar polarimetry;polarimetric sar;polsar
+geoai;geo-ai;geospatial artificial intelligence
+clip;contrastive language-image pretraining;contrastive language-image pre-training
+segmentation;image segmentation
+building extraction;building segmentation;building damage assessment;building function;building function mapping;building facade parsing;building exteriors
+unmanned aerial vehicles;autonomous aerial vehicles;unmanned aerial vehicle;uav;uavs;drones;drone
+robotics;robots;robot
+satellite imagery;satellite images;satellite image;satellites
+motion planning;planning;real-time motion planning;decision making and planning
+change detection;change detection (cd);remote sensing change detection
